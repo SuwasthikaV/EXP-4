@@ -37,15 +37,23 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+<img width="1600" height="1333" alt="WhatsApp Image 2026-05-22 at 8 29 01 PM" src="https://github.com/user-attachments/assets/d79237d9-45e7-4c2b-83fe-ea2c9d88ecec" />
 
 Bridge rectifier with filter:
+<img width="1600" height="1403" alt="WhatsApp Image 2026-05-22 at 8 30 26 PM" src="https://github.com/user-attachments/assets/72ed830b-fccf-4fc0-925d-ae8835015ac7" />
+
 
 TABULAR COLUMN
 Rectifier without filter
+<img width="1573" height="343" alt="WhatsApp Image 2026-05-22 at 8 29 23 PM" src="https://github.com/user-attachments/assets/5b08ff32-5378-4f34-a31d-32edf929a997" />
+
 TABULAR COLUMN
 Rectifier with filter
+<img width="1532" height="480" alt="WhatsApp Image 2026-05-22 at 8 31 17 PM" src="https://github.com/user-attachments/assets/b1b5f708-e089-402b-822e-025e79110b1c" />
 
 WAVEFORM:
+<img width="1600" height="571" alt="WhatsApp Image 2026-05-22 at 8 29 52 PM" src="https://github.com/user-attachments/assets/0b651dad-af90-4ee9-b1fc-c351a69d1031" />
+<img width="1600" height="556" alt="WhatsApp Image 2026-05-22 at 8 31 44 PM" src="https://github.com/user-attachments/assets/2277c58e-4ece-4bfa-86c3-c4f70bdfe305" />
 
 
 RESULT:
